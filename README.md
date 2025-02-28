@@ -4,13 +4,13 @@ This project demonstrates the implementation and training of a neural network to
 
 ---
 
-## 🔍 **Overview**
+## **Overview**
 
 The MNIST dataset is a benchmark dataset consisting of grayscale images of handwritten digits (0–9), each 28x28 pixels in size. The goal is to train a machine learning model to classify these digits accurately.
 
 ---
 
-## 🚀 **Project Highlights**
+## **Project Highlights**
 
 - **Dataset**: MNIST (Modified National Institute of Standards and Technology)
 - **Model Architecture**: Fully connected neural network (flattened input of 784 units)
